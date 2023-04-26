@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi Sitio Web</title>
+    <link>http://www.misitioweb.com</link>
+    <description>Últimos artículos publicados en Mi Sitio Web</description>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 25 Apr 2023 00:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Artículo 1</title>
+      <link>http://www.misitioweb.com/articulo1.html</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate>Sun, 24 Apr 2023 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Artículo 2</title>
+      <link>http://www.misitioweb.com/articulo2.html</link>
+      <description>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <pubDate>Sat, 23 Apr 2023 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Artículo 3</title>
+      <link>http://www.misitioweb.com/articulo3.html</link>
+      <description>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+      <pubDate>Fri, 22 Apr 2023 00:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
