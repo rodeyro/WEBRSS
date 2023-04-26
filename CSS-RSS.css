@@ -11,6 +11,7 @@ header {
 }
 
 a:hover { 
+  border: 1px solid #12C7F0;
   color: #00FF00; 
 }
 
