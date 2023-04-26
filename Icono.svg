@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <ellipse style="stroke: rgb(0, 0, 0);" cx="228.934" cy="215.813" rx="162.993" ry="162.104"></ellipse>
+  <g style="" transform="matrix(1, 0, 0, 1, -12.44675, -6.519726)">
+    <polyline style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" points="358.568 152.06 306.522 353.351 240.611 251.825"></polyline>
+    <path style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" d="M 128.515 145.617 L 174.968 353.657 L 241.784 250.653"></path>
+    <polyline style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" points="128.521 145.605 153.169 145.605 184.272 290.558 283.451 145.605 283.451 130.933 196.009 130.347 196.009 156.169 173.123 156.168"></polyline>
+    <polyline style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" points="357.981 153.252 336.274 153.833 296.948 295.253 253.521 230.699"></polyline>
+    <line style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" x1="174.296" y1="156.756" x2="174.296" y2="103.352"></line>
+    <line style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" x1="305.751" y1="148.539" x2="305.751" y2="103.938"></line>
+    <line style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" x1="306.338" y1="103.939" x2="174.296" y2="103.939"></line>
+    <line style="paint-order: stroke markers; fill-opacity: 0; fill: rgb(255, 200, 0); stroke: rgb(255, 225, 0);" x1="254.108" y1="231.286" x2="305.751" y2="147.366"></line>
+  </g>
+</svg>
