@@ -10,7 +10,7 @@ header {
   padding: 20px;
 }
 
-.a:hover { 
+a:hover { 
   color: #00FF00; 
 }
 
